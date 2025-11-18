@@ -1,0 +1,5 @@
+จาก project qoute manager week11 มาทำเพิ่มเติมให้สามารถ delete add และ edit ได้
+ซึ่งไฟล์ fetchUtils.js quoteManagement.js และ app.js คือไฟล์ที่ self-practice เพิ่มเติม
+เนื่องจากใน class ยังเขียนไม่เสร็จ และก็ได้เรียนรู้จากของอาจารย์ไปในตัว
+
+
