@@ -1,0 +1,11 @@
+ใน self-practice นี้ เรียนเรื่อง date time กับ dialog จากในห้อง เนื่องจากว่ามันเป็นส่วนที่ได้นำไปใช้งานจริงใน intproj 
+แต่ส่วนตัวไม่ได้รับผิดชอบในส่วน frontend จึงต้องมาศึกษาเพิ่มเองอีกทีเพื่อทำความเข้าใจ และเพื่อประโยชน์ต่อการอ่านโค้ดในส่วนนี้ของ intproj ด้วย
+
+dateObject.js -->
+- Part 01 Create Date Object
+- Part 02 Compare date time
+- Part 03 date time format
+- Part 04 ดึงข้อมูล timezone และ การตั้งค่าภาษาของผู้ใช้
+
+dialog.js -->
+- Part 05 ทำตัวอย่าง dialog ตาม requirement ของ intproj
